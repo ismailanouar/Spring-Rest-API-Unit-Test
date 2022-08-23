@@ -72,6 +72,6 @@ public class MemberController {
 
     @GetMapping(value = "/hello")
     public String sayHello(){
-        return "Say hello to the people GHANIMA!";
+        return "Say hello to the people !";
     }
 }
