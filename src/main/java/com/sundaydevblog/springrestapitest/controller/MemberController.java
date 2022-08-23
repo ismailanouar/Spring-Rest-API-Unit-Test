@@ -74,3 +74,4 @@ public class MemberController {
     public String sayHello(){
         return "Say hello to the people GHANIMA!";
     }
+}
